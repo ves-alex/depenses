@@ -785,57 +785,37 @@ date,montant,categorie,marchand
 2026-04-28,13.09,Tech & outils dev,Anthropic API
 2026-05-01,3.50,Transport,Vélociti Tours
 2026-05-02,41.29,Courses,Biocoop
-2026-05-02,51.91,Courses,Lidl
+2026-05-02,15.19,Restos & cafés,Boulangerie Lhuillier
+2026-05-02,75.12,Tech & outils dev,Backmarket
 2026-05-02,29.99,Santé & sport,Basic-Fit Premium
 2026-05-03,720.00,Logement & factures,Loyer studio Tours
-2026-05-03,16.72,Restos & cafés,La Pizza Cosy
-2026-05-03,49.27,Santé & sport,Pharmacie centrale
-2026-05-04,14.18,Restos & cafés,La Pizza Cosy
-2026-05-04,23.80,Espace & astronomie,Librairie des Sciences
+2026-05-03,4.05,Finance,Eyrolles livre Bourse
 2026-05-05,19.00,Tech & outils dev,Claude Pro
-2026-05-05,23.30,Santé & sport,Doctolib consultation
-2026-05-06,58.35,Courses,Marché des Halles
+2026-05-05,46.28,Tech & outils dev,OVH domaine .fr
+2026-05-06,19.29,Restos & cafés,La Pizza Cosy
+2026-05-06,52.48,Santé & sport,Pharmacie centrale
 2026-05-06,17.99,Loisirs & divers,Spotify Famille
-2026-05-06,96.24,Loisirs & divers,Cadeau anniv
-2026-05-07,32.00,Restos & cafés,Boulangerie Lhuillier
 2026-05-07,22.00,Tech & outils dev,ChatGPT Plus
 2026-05-08,29.99,Logement & factures,Free Box Pop
 2026-05-08,15.99,Logement & factures,Free Mobile
-2026-05-08,13.35,Restos & cafés,Uber Eats
-2026-05-08,35.23,Transport,Péages Vinci Autoroutes
-2026-05-08,63.29,Loisirs & divers,Sephora
-2026-05-09,6.66,Restos & cafés,Starbucks Tours
+2026-05-08,10.19,Finance,Fnac livre finance
+2026-05-08,5.81,Finance,Trade Republic ordre
 2026-05-09,7.99,Santé & sport,Strava Premium
+2026-05-10,29.92,Transport,Parking Centre Tours
 2026-05-10,10.00,Tech & outils dev,GitHub Copilot Pro
-2026-05-10,6.60,Finance,Trade Republic ordre
+2026-05-10,30.53,Santé & sport,Pharmacie centrale
 2026-05-11,8.00,Finance,Substack The Macro Compass
-2026-05-12,22.87,Transport,Péages Vinci Autoroutes
-2026-05-12,46.96,Transport,Total Énergies
+2026-05-12,20.95,Transport,Avia
 2026-05-12,20.00,Tech & outils dev,Cursor Pro
 2026-05-13,14.99,Loisirs & divers,Netflix Standard
 2026-05-14,20.00,Tech & outils dev,Vercel Pro
-2026-05-14,3.49,Finance,Trade Republic ordre
-2026-05-15,11.82,Restos & cafés,La Pizza Cosy
-2026-05-15,61.72,Loisirs & divers,Cinéma CGR Tours
-2026-05-16,26.31,Restos & cafés,Café Méo
-2026-05-16,53.52,Santé & sport,Doctolib consultation
+2026-05-14,0.50,Finance,Trade Republic ordre
+2026-05-15,13.38,Restos & cafés,Uber Eats
+2026-05-15,17.97,Restos & cafés,Boulangerie Lhuillier
+2026-05-16,31.24,Restos & cafés,Café Méo
+2026-05-17,69.52,Transport,Bolt
 2026-05-17,6.99,Espace & astronomie,Nebula
-2026-05-17,50.02,Loisirs & divers,Sephora
+2026-05-17,4.07,Finance,Trade Republic ordre
 2026-05-18,10.00,Tech & outils dev,Notion Plus
 2026-05-19,5.99,Espace & astronomie,Curiosity Stream
-2026-05-20,17.00,Restos & cafés,Le Café Leffe
-2026-05-21,9.99,Loisirs & divers,Kindle Unlimited
-2026-05-22,76.83,Courses,Biocoop
-2026-05-22,15.00,Tech & outils dev,Figma Pro
-2026-05-23,28.31,Loisirs & divers,Cinéma CGR Tours
-2026-05-24,15.57,Restos & cafés,La Pizza Cosy
-2026-05-24,2.99,Tech & outils dev,iCloud 200 Go
-2026-05-25,56.78,Courses,Biocoop
-2026-05-25,76.39,Courses,Biocoop
-2026-05-25,2.89,Restos & cafés,Boulangerie Lhuillier
-2026-05-26,79.70,Santé & sport,Pharmacie centrale
-2026-05-27,14.54,Restos & cafés,Le Café Leffe
-2026-05-27,8.82,Finance,Trade Republic ordre
-2026-05-27,49.16,Loisirs & divers,FNAC
-2026-05-28,24.87,Restos & cafés,Boulangerie Lhuillier
-2026-05-28,15.78,Tech & outils dev,Anthropic API
+2026-05-20,57.32,Courses,Carrefour Tours
