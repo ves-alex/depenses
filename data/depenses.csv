@@ -748,47 +748,57 @@ date,montant,categorie,marchand
 2026-07-27,33.92,Santé & sport,Doctolib consultation
 2026-07-28,2.01,Tech & outils dev,Anthropic API
 2026-08-01,3.50,Transport,Vélociti Tours
-2026-08-02,10.39,Restos & cafés,Starbucks Tours
-2026-08-02,55.91,Transport,SNCF Connect
+2026-08-01,57.60,Loisirs & divers,Librairie Le Livre
+2026-08-02,19.93,Restos & cafés,Starbucks Tours
 2026-08-02,29.99,Santé & sport,Basic-Fit Premium
 2026-08-03,720.00,Logement & factures,Loyer studio Tours
-2026-08-03,22.10,Restos & cafés,Uber Eats
-2026-08-03,22.60,Santé & sport,Nutripure
+2026-08-03,44.17,Transport,Bolt
+2026-08-03,22.19,Espace & astronomie,Observatoire de Tours
+2026-08-03,24.75,Santé & sport,Nutripure
 2026-08-05,19.00,Tech & outils dev,Claude Pro
+2026-08-05,25.42,Santé & sport,Decathlon Tours
 2026-08-06,17.99,Loisirs & divers,Spotify Famille
 2026-08-07,22.00,Tech & outils dev,ChatGPT Plus
 2026-08-08,29.99,Logement & factures,Free Box Pop
 2026-08-08,15.99,Logement & factures,Free Mobile
+2026-08-08,60.95,Loisirs & divers,Decathlon vêtements
 2026-08-09,59.42,Courses,Lidl
 2026-08-09,7.99,Santé & sport,Strava Premium
+2026-08-10,52.20,Transport,SNCF Connect
 2026-08-10,10.00,Tech & outils dev,GitHub Copilot Pro
-2026-08-10,9.62,Finance,Trade Republic ordre
-2026-08-10,0.50,Finance,Investopedia book
-2026-08-10,73.62,Loisirs & divers,Sephora
-2026-08-11,59.77,Transport,Hertz location
+2026-08-11,9.57,Restos & cafés,Uber Eats
+2026-08-11,31.78,Transport,Total Énergies
 2026-08-11,8.00,Finance,Substack The Macro Compass
-2026-08-11,1.54,Finance,Trade Republic ordre
 2026-08-12,26.74,Restos & cafés,La Pizza Cosy
 2026-08-12,20.00,Tech & outils dev,Cursor Pro
+2026-08-12,31.88,Santé & sport,Nutripure
 2026-08-13,14.99,Loisirs & divers,Netflix Standard
 2026-08-14,20.00,Tech & outils dev,Vercel Pro
-2026-08-14,54.35,Santé & sport,Doctolib consultation
 2026-08-15,51.87,Logement & factures,EDF
 2026-08-15,18.73,Restos & cafés,La Souris Gourmande
-2026-08-15,56.66,Santé & sport,Decathlon Tours
-2026-08-17,5.04,Restos & cafés,Boulangerie Lhuillier
+2026-08-15,49.67,Transport,Hertz location
+2026-08-17,19.38,Restos & cafés,Le Café Leffe
+2026-08-17,47.17,Transport,Bolt
 2026-08-17,6.99,Espace & astronomie,Nebula
 2026-08-18,10.00,Tech & outils dev,Notion Plus
-2026-08-19,14.28,Restos & cafés,Uber Eats
 2026-08-19,5.99,Espace & astronomie,Curiosity Stream
 2026-08-20,55.84,Courses,Lidl
-2026-08-20,35.90,Santé & sport,Pharmacie centrale
-2026-08-20,0.50,Finance,Eyrolles livre Bourse
+2026-08-20,10.20,Restos & cafés,Starbucks Tours
 2026-08-21,50.50,Courses,Lidl
 2026-08-21,66.57,Courses,Lidl
+2026-08-21,20.18,Transport,SNCF Connect
 2026-08-21,9.99,Loisirs & divers,Kindle Unlimited
-2026-08-21,62.94,Loisirs & divers,AirBnB weekend
 2026-08-22,47.64,Courses,Picard
 2026-08-22,15.00,Tech & outils dev,Figma Pro
-2026-08-22,50.64,Santé & sport,Decathlon Tours
-2026-08-23,8.25,Finance,Bourse Direct ordre
+2026-08-22,8.72,Finance,Bourse Direct ordre
+2026-08-22,4.31,Finance,Trade Republic ordre
+2026-08-24,25.12,Transport,Péages Vinci Autoroutes
+2026-08-24,2.99,Tech & outils dev,iCloud 200 Go
+2026-08-24,6.13,Finance,Investopedia book
+2026-08-25,12.78,Transport,SNCF Connect
+2026-08-25,63.95,Loisirs & divers,Uniqlo
+2026-08-26,18.62,Restos & cafés,La Pizza Cosy
+2026-08-26,65.16,Loisirs & divers,Cinéma CGR Tours
+2026-08-27,17.97,Restos & cafés,Boulangerie Lhuillier
+2026-08-28,22.10,Restos & cafés,La Souris Gourmande
+2026-08-28,18.27,Tech & outils dev,Anthropic API
